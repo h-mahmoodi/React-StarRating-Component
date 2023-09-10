@@ -1,5 +1,5 @@
 # React-StarRating-Component
- Star Rating Component |  A simply reusable , flexible and clone react component
+ React Star Rating Component |  A simply reusable , flexible and clone react component
 
  # How To Use Component
  
