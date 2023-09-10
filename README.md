@@ -4,12 +4,19 @@
  # How To Use Component
  
 Available props :
-max : (number)(default=5) Set total rate count,
-color : (string)(default="#d4851a") Set star rating color
-size : (number)(default=30) Set shape and font size in px
-className : (string)(default="") Set custom class attr for add more user's style
-message : (array)(default=[]) Set custom message for each rate
-onSetRating : (function)(default=()) Set a function to return rating value
+
+max : (number) (default=5) Set total rate count
+
+color : (string) (default="#d4851a") Set star rating color
+
+size : (number) (default=30) Set shape and font size in px
+
+className : (string) (default="") Set custom class attr for add more user's style
+
+message : (array) (default=[]) Set custom message for each rate
+
+onSetRating : (function) (default=()) Set a function to return rating value
+
 
 Example of usage :
 
